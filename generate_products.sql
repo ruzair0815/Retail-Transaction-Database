@@ -1,0 +1,22 @@
+INSERT INTO products (product_name, category, price)
+VALUES
+('Laptop', 'Electronics', 999.99),
+('Keyboard', 'Electronics', 49.99),
+('Monitor', 'Electronics', 299.99),
+('Desk Chair', 'Furniture', 199.99),
+('Mouse', 'Electronics', 24.99),
+('Desk Lamp', 'Furniture', 39.99),
+('Tablet', 'Electronics', 499.99),
+('Phone Charger', 'Electronics', 19.99),
+('Bookshelf', 'Furniture', 149.99),
+('Headphones', 'Electronics', 89.99),
+('Coffee Table', 'Furniture', 249.99),
+('Gaming Mouse', 'Electronics', 59.99),
+('Office Desk', 'Furniture', 399.99),
+('USB Cable', 'Electronics', 9.99),
+('Smartphone', 'Electronics', 799.99),
+('TV Stand', 'Furniture', 179.99),
+('Printer', 'Electronics', 159.99),
+('Webcam', 'Electronics', 69.99),
+('Couch', 'Furniture', 899.99),
+('Microphone', 'Electronics', 129.99);
