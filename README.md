@@ -11,6 +11,6 @@ Retail analytics project built using PostgreSQL, Docker, and SQL that simulates 
 
 ## Technologies
 
-Database: PostgreSQL
-Tools: Docker, Visual Studio Code
+- Database: PostgreSQL
+- Tools: Docker
 
